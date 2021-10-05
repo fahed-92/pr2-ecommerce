@@ -6059,7 +6059,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ab3a5e8-9b12-4db8-b99d-d1bc752603e5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/LanguagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/LanguagesController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/MainCategoriesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/MainCategoriesController.php" afterDir="false" />
@@ -6336,7 +6335,7 @@
       <workItem from="1632383165317" duration="89000" />
       <workItem from="1632933926861" duration="669000" />
       <workItem from="1633285626868" duration="32695000" />
-      <workItem from="1633380485982" duration="23769000" />
+      <workItem from="1633380485982" duration="24371000" />
     </task>
     <servers />
   </component>
